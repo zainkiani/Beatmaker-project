@@ -106,7 +106,6 @@ select{
 }
 .tempo-slider{
     padding: 0.3rem;
-    -webkit-appearance: none;
     margin: 1rem 0rem;
     width: 100%;
     position: relative;
