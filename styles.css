@@ -120,6 +120,7 @@ select{
     text-align: center;
 }
 
+
 @keyframes playTrack{
     0%{
         transform: scale(1);
